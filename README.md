@@ -30,4 +30,4 @@ Veerisetty Venkata Lakshmi
 
 ## Output
 ### Program Output
-![Program Output](output1.png)
+![Program Output](MatrimonialProfileMatcher/output1.png)
